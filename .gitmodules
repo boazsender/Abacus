@@ -4,3 +4,6 @@
 [submodule "wiki"]
 	path = wiki
 	url = git@github.com:boazsender/Abacus.wiki.git
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/jquery/jquery.git
